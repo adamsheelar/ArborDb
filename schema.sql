@@ -1,6 +1,6 @@
 ---------------------------------------------
---schema for proejct 1 phase 2 part 1
---author: Hongkun Yao, Adam Sheelar
+--schema for ArborDB
+--author: Adam Sheelar
 ---------------------------------------------
 
 DROP SCHEMA IF EXISTS schema CASCADE;
