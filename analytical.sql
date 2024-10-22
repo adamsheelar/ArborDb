@@ -1,7 +1,7 @@
 SET SCHEMA 'schema';
 ---------------------------------------------
 --schema for proejct 1 phase 2 part 2
---author: Hongkun Yao, Adam Sheelar
+--author: Adam Sheelar
 ---------------------------------------------
 
 --1. rankForestSensors
